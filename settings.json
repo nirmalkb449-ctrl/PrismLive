@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "MySQL Local",
+            "database": "new_db",
+            "username": "root",
+            "password": "RX007AWXA#123##",
+            "connectionTimeout": 30
+        }
+    ],
+    "mssql.objectExplorer.collapseConnectionGroupsOnStartup": true
+}
